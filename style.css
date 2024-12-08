@@ -2,7 +2,7 @@ body{
     background: black;
 } 
 
-h1{
+h1 , h2{ 
     color: white;
     font-size: 200px; 
 }
